@@ -1,0 +1,15 @@
+body{
+    background-color: #8BD989;
+    color: #02401D;
+}
+
+h1{
+    color:blue;
+}
+
+div{
+    background-color:rgb(83, 86, 94);
+    padding: 10px 20px;
+    margin: 12px;
+    border-radius: 5%;
+}
