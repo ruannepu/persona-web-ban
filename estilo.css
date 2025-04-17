@@ -13,3 +13,9 @@ div{
     margin: 12px;
     border-radius: 5%;
 }
+
+.img {
+   display: flex;
+   justify-content: center;
+
+}
